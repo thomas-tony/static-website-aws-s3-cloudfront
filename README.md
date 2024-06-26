@@ -58,7 +58,7 @@ This project demonstrates how to deploy a static website on AWS S3 and CloudFron
     }
   ]
 }
-
+```
 - Replace my-static-website with your bucket name.
 - Click “Save changes.”
 
@@ -76,7 +76,7 @@ This project demonstrates how to deploy a static website on AWS S3 and CloudFron
     <AllowedMethod>GET</AllowedMethod>
   </CORSRule>
 </CORSConfiguration>
-
+```
 - Click “Save changes.”
 
 ## Step 3: Set Up CloudFront Distribution
